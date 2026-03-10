@@ -1,0 +1,22 @@
+{
+  "short_name": "Gestion Smart",
+  "name": "Gestion Smart AI Strategist",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/gs-logo/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/gs-logo/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#D4AF37",
+  "description": "Plateforme d'Intelligence Stratégique Executive"
+}
